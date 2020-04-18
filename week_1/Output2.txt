@@ -1,0 +1,14 @@
+      0  1       2
+0  2104  3  399900
+1  1600  3  329900
+2  2400  3  369000
+3  1416  2  232000
+4  3000  4  539900
+Cost function J value : 65591548106.45744
+Press enter if you have completed gradient descent file, else Ctrl+C then enter to exit
+Cost function after  0  iterations is  62068007680.283844
+Cost function after  100  iterations is  2679101950.7045717
+Cost function after  200  iterations is  2372180772.7146063
+Cost function after  300  iterations is  2284765774.850247
+Cost function after  400  iterations is  2221957435.2096915
+New Cost function value: 2176910653.2626677
