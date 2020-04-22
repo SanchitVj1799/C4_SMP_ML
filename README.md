@@ -1,1 +1,1 @@
-# C4_SMP_ML
+# C4 Summer Mentorship Program for Machine Learning
