@@ -9,12 +9,9 @@ def costFunction(theta, X, y):
     '''    
     m = y.size
     h = sigmoid(X @ theta)
-    y=np.array(y)
-    h=np.array(h)
     
     J = -((np.log(h + epsilon).T).dot(y)+np.log(1-h + epsilon).T.dot(1-y))/m
 
-    J = np.array(J)  
     return J  
 
 def gradient(theta, X, y):
